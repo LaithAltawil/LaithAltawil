@@ -9,7 +9,7 @@ Bridging the gap between fault-tolerant enterprise architecture and modern AI. B
 
 ### 🛠️ Technical Arsenal
 
-- **AI & Agentic Systems:** LangGraph, LangChain, DeepSeek, Agentic RAG Pipelines, Vector Embeddings[cite: 1]
+- **AI & Agentic Systems:** LangGraph, LangChain, DeepSeek, Agentic RAG Pipelines, Vector Embeddings
 - **Machine Learning & Deep Learning:** PyTorch, XGBoost, Random Forest, Multivariate LSTMs, Anomaly Detection
 - **Languages:** Python, R, Java, SQL
 - **Data Engineering & Big Data:** Dask, Apache Spark, ETL Pipelines, SQLite
