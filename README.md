@@ -33,9 +33,3 @@ Bridging the gap between fault-tolerant enterprise architecture and modern AI. B
 - **Kaggle:** [kaggle.com/laithaltawil](https://www.kaggle.com/laithaltawil)
 - **Email:** [laithaltawil1776@outlook.com](mailto:laithaltawil1776@outlook.com)
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaithAltawil&show_icons=true&theme=radical&include_all_commits=true" alt="Laith's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaithAltawil&layout=compact&theme=radical" alt="Top Languages" />
-</div>
